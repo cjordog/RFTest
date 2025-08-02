@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <GameDir></GameDir>
+    <GameDir>J:\Program Files (x86)\Steam\steamapps\common\Taiko no Tatsujin Rhythm Festival\</GameDir>
     <CopyOutputFiles>false</CopyOutputFiles>
-    <SaveProfileManagerPath></SaveProfileManagerPath>
+    <SaveProfileManagerPath>J:\Program Files (x86)\Steam\steamapps\common\Taiko no Tatsujin Rhythm Festival\BepInEx\plugins\com.DB.RF.SaveProfileManager\com.DB.RF.SaveProfileManager.dll</SaveProfileManagerPath>
   </PropertyGroup>
 </Project>
